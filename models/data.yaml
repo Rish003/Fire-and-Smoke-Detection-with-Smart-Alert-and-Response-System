@@ -1,0 +1,7 @@
+path: D:\Yolo_v11_model\dataset
+train: train/images
+val: test/images
+
+nc: 2
+names: ["smoke", "fire"]
+

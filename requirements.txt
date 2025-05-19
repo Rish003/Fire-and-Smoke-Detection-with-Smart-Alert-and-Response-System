@@ -1,0 +1,16 @@
+Python 3.8+
+
+OpenCV
+
+PyTorch
+
+YOLOv11 compatible model
+
+pyttsx3
+
+pandas
+
+Tkinter
+
+torch>=1.10
+torchvision
