@@ -28,6 +28,6 @@ Refer to the folder structure above.
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/AI-Fire-Smoke-Detection.git
-cd AI-Fire-Smoke-Detection
+git clone https://github.com/Rish003/AI-Fire-and-Smoke-Detection.git
+cd AI-Fire-and-Smoke-Detection
 pip install -r requirements.txt
